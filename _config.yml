@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guoyuncheng / Page"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Guoyuncheng"
 description              : &description "personal description"
